@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1416553479 source:c:\users\francisco\documents\projects\ftetris\main.cpp
+	<iostream>
+	"GameManager.h"
+
+1416553441 c:\users\francisco\documents\projects\ftetris\include\gamemanager.h
+	<string>
+	<vector>
+
+1416581701 source:c:\users\francisco\documents\projects\ftetris\src\gamemanager.cpp
+	"GameManager.h"
+	<cstdlib>
+	<iostream>
+	<string>
+	<vector>
+	<stdexcept>
+	"ConsoleHelper.h"
+
+1416554269 source:c:\users\francisco\documents\projects\ftetris\src\consolehelper.cpp
+	"ConsoleHelper.h"
+	<cstdlib>
+
+1416554064 c:\users\francisco\documents\projects\ftetris\include\consolehelper.h
+	<string>
+
